@@ -6,7 +6,35 @@ This project transforms structured business data (Customers, Invoices, Items, Jo
 It helps trace relationships across fragmented datasets and answer business questions interactively.
 
 ---
+##  Tech Stack
 
+### 🔹 Core
+
+- Python
+- 
+- Pandas  
+
+### 🔹 Graph & Data Modeling
+
+- NetworkX (graph construction & traversal)  
+
+### 🔹 Visualization
+
+- PyVis (interactive graph rendering)
+  
+- Streamlit (UI dashboard)  
+
+### 🔹 AI / NLP
+
+- LLM via OpenRouter (Mistral-7B)
+   
+- OpenAI-compatible API  
+
+### 🔹 System Design
+
+- Hybrid Query Engine (Rule-based + LLM)
+
+  
 ##  Key Features
 
 -  Graph-based data modeling using NetworkX  
