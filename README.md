@@ -49,38 +49,54 @@ DodgeAI/
 Setup Instructions:
 
 1.Create Environment
+
 bash
 python3 -m venv venv
 source venv/bin/activate
 
 2.Install Dependencies
+
 pip install pandas networkx streamlit pyvis openai
 
 3.Set API Key
+
 export OPENROUTER_API_KEY="your_api_key"
 
 4.Generate Dataset
+
 python data/dataset.py
 
 5.Run Application
+
 streamlit run app.py
 
 6.Example Queries
+
 Find invoice INV1
+
 What is the flow of INV5?
+
 Which invoices are incomplete?
+
 Show details of INV10
 
 7.Use Cases
+
 Trace end-to-end business transactions
+
 Identify missing or broken workflows
+
 Explore relationships between entities
+
 Query structured data using natural language
 
 8. Key Highlights
 Converts tabular ERP data into graph structure
+
 Enables intuitive querying over complex relationships
+
 Combines deterministic logic with LLM flexibility
+
 Provides interactive visualization + chat interface
 
 Output:
