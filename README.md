@@ -90,7 +90,8 @@ Explore relationships between entities
 
 Query structured data using natural language
 
-8. Key Highlights
+8.Key Highlights
+
 Converts tabular ERP data into graph structure
 
 Enables intuitive querying over complex relationships
