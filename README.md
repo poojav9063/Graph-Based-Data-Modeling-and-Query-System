@@ -56,25 +56,7 @@ It helps trace relationships across fragmented datasets and answer business ques
 
 ---
 
-##  Project Structure
-
-DodgeAI/
-│
-├── graph/
-│ └── build_graph.py
-├── query/
-│ └── query_executor.py
-├── data/
-│ ├── dataset.py
-│ └── *.csv
-├── app.py
-├── test_graph.py
-└── test_query.py
-
-
----
-
-Setup Instructions:
+## Setup Instructions:
 
 1.Create Environment
 
@@ -128,6 +110,8 @@ Combines deterministic logic with LLM flexibility
 
 Provides interactive visualization + chat interface
 
+---
+
 Output:
 
 <img width="1718" height="567" alt="image" src="https://github.com/user-attachments/assets/24185008-62f5-47fa-a2a8-ac220a1e5515" />
@@ -135,6 +119,7 @@ Output:
 <img width="1670" height="735" alt="image" src="https://github.com/user-attachments/assets/6764e6fe-0da3-4a4d-ac01-b1a68a184995" />
 
 
+---
 
 Conclusion
 
