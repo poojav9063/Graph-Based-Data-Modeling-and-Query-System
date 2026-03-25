@@ -11,7 +11,7 @@ It helps trace relationships across fragmented datasets and answer business ques
 ### 🔹 Core
 
 - Python
-- 
+  
 - Pandas  
 
 ### 🔹 Graph & Data Modeling
