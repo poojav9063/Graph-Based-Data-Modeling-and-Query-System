@@ -11,7 +11,7 @@ import re
 # LLM SETUP (SAFE)
 # -------------------------
 client = OpenAI(
-    api_key="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",   # ✅ secure
+    api_key="api_key",   # ✅ secure
     base_url="https://openrouter.ai/api/v1"
 )
 
